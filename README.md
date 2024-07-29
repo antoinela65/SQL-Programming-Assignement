@@ -20,5 +20,6 @@ The task at hand was to design a database that will allow hotel employees to fil
 - SQL
 - SQL Server Management Studio
 
-/*
+
+Note:
 This project was made for educational purposes only.
